@@ -1,0 +1,14 @@
+{
+  "name": "uc03-trabalho-variaveis-constantes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davi Do Carmo <davigcarmo02@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
